@@ -9,4 +9,5 @@ This is a Machine Learning (ML) project that predicts the amount of calories a u
 
 
 ##Dataset:
+![Dataset]
 The dataset for this project is avaialable at: (https://www.kaggle.com/datasets/aadhavvignesh/calories-burned-during-exercise-and-activities)
