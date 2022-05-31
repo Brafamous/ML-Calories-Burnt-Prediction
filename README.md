@@ -22,3 +22,9 @@ Here a heatmap for the data is generated to show how the features or the depende
 The image below shows a demo simulation of the ML taking the user's height, gender, weight, heart rate during exercise among others to predict the amount of calories burnt during the exercise.
 
 ![Heatmap](https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Prediction_test.PNG)
+
+
+The predicted calories burnt is as shown below 
+
+![Heatmap](https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Prediction_test2.PNG)
+
