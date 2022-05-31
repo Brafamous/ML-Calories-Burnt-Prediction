@@ -7,5 +7,6 @@ This is a Machine Learning (ML) project that predicts the amount of calories a u
 
 ![Workflow](https://github.com/Brafamous/Machine-Learning_Regression/blob/main/Machine-Learning-Project.jpg)
 
-##Data set:
+
+##Dataset:
 The dataset for this project is avaialable at: (https://www.kaggle.com/datasets/aadhavvignesh/calories-burned-during-exercise-and-activities)
