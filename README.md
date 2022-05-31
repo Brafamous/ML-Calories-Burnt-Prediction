@@ -13,6 +13,6 @@ The dataset for this project is avaialable at: (https://www.kaggle.com/datasets/
 
 
 ## Data Analysis
-Here a heatmap for the data is generated to show how the features or the dependent variables are correlated to each other. A very hihg value (say 1) depicts that the features are positively or strongly correlated and a very low value shows a weak correlation. As shown below Weight and Height are positvely correlated whiles duration and height have a negative correlation.
+Here a heatmap for the data is generated to show how the features or the dependent variables are correlated to each other. A very hihg value (say 1) depicts that the features are positively or strongly correlated and a very low value shows a weak correlation. As shown below Weight and Height are positvely correlated whiles duration and height have a negative correlation. However, the diagonal correlation are excluded. Duration and heart rate have a correlation of 0.9 which indicates a positive correlation. This implies that, a person who exercise for a longer hours will have a faster heart rate than someoen who exercise for a short period of time.
 
 ![Workflow](https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Heatmap.png)
