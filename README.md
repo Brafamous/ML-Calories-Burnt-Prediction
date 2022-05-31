@@ -14,3 +14,5 @@ The dataset for this project is avaialable at: (https://www.kaggle.com/datasets/
 
 ## Data Analysis
 Here a heatmap for the data is generated to show how the features or the dependent variables are correlated to each other. A very hihg value (say 1) depicts that the features are positively or strongly correlated and a very low value shows a weak correlation. As shown below Weight and Height are positvely correlated whiles duration and height have a negative correlation.
+
+![Workflow](https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Heatmap.png)
