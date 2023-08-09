@@ -24,6 +24,11 @@ The image below shows a demo simulation of the ML taking the user's height, gend
 ![Heatmap](https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Prediction_test.PNG)
 
 
+## Notebook
+<iframe src="https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Prediction_of_Calories_Burnt%20(1).ipynb" width="100%" height="600px"></iframe>
+
+
+
 The predicted calories burnt is as shown below 
 
 ![Heatmap](https://github.com/Brafamous/ML-Calories-Burnt-Prediction/blob/main/Prediction_test2.PNG)
